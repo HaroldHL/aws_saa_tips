@@ -14,5 +14,7 @@ Gateway Endpoints support:
 
 1 IGW in your VPC
 
+VPCs am I allowed in each AWS region
+
 
 
